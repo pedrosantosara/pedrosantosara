@@ -1,6 +1,3 @@
-<h1 align="center">Oii, eu sou Pedro  
-<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
-
 <img src= "https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%237E3ACE&size=24&duration=6420&center=true&vCenter=true&width=999&height=99&lines=Meu+nome+%C3%A9+Pedro;Sou+Desenvolvedor+Full-Stack+Web+Junior;"/>
 
 ## 👨🏻‍💻 &nbsp;Sobre mim
