@@ -1,16 +1,28 @@
-### Hi there 👋
+<h1 align="center">Oii, eu sou Pedro  
+<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
-<!--
-**pedrosantosara/pedrosantosara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src= "https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%237E3ACE&size=24&duration=6420&center=true&vCenter=true&width=999&height=99&lines=Meu+nome+%C3%A9+Pedro;Sou+Desenvolvedor+Full-Stack+Web+Junior;"/>
 
-Here are some ideas to get you started:
+## 👨🏻‍💻 &nbsp;Sobre mim
+                    
+<img src="https://user-images.githubusercontent.com/59851589/178666023-5fb1bb5b-735d-4bbc-88bf-5584dcac7972.gif" align="right" height="150" width="150"></a>
+                    
+🎓 &nbsp;Atualmente cursando Analise e Desenvolvimento de Sistemas em parceria com Porto Digital.\
+💡 &nbsp;Estudando Desenvolvimento Web Full Stack atraves da Rocketseat🚀, Alura e udemy.\
+🌱 &nbsp;Buscando a primeira oportunidade na área de desenvolvimento.\
+🎮 &nbsp;Gosto de Jogar e praticar Artes Maciais nas horas vagas.\
+☀️ &nbsp;Morando em Recife Atualmente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 &nbsp;Estatísticas e Linguagens
+
+<div>
+<img height="150em" style="padding-right=30px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrosantosara&show_icons=true&theme=dark&locale=en&layout=compact" alt="pedrosantosara" />
+<img height="150em" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrosantosara&theme=dark" alt="pedrosantosara" />
+</div>
+
+## 📱 &nbsp;Contato
+
+<div align="center">
+<a href="https://www.linkedin.com/in/pedrohensantos/"><img width="100" src="https://img.shields.io/badge/-Pedro-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
+<a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fpedrosantosara"><img width="150"src="https://img.shields.io/github/followers/pedrosantosara?label=Follow&style=social&link=https://github.com/pedrosantosara"></a>
+</div>
