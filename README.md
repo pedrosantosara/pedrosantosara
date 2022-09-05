@@ -1,5 +1,3 @@
-<img src= "https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%237E3ACE&size=24&duration=6420&center=true&vCenter=true&width=999&height=99&lines=Meu+nome+%C3%A9+Pedro;Sou+Desenvolvedor+Full-Stack+Web+Junior;"/>
-
 ## 👨🏻‍💻 &nbsp;Sobre mim
                     
 <img src="https://user-images.githubusercontent.com/59851589/178666023-5fb1bb5b-735d-4bbc-88bf-5584dcac7972.gif" align="right" height="150" width="150"></a>
