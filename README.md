@@ -3,9 +3,7 @@
 <img src="https://user-images.githubusercontent.com/59851589/178666023-5fb1bb5b-735d-4bbc-88bf-5584dcac7972.gif" align="right" height="150" width="150"></a>
                     
 🎓 &nbsp;Atualmente cursando Analise e Desenvolvimento de Sistemas em parceria com Porto Digital.\
-💡 &nbsp;Estudando Desenvolvimento Web Full Stack atraves da Rocketseat🚀, Alura e udemy.\
-🌱 &nbsp;Buscando a primeira oportunidade na área de desenvolvimento.\
-🎮 &nbsp;Gosto de Jogar e praticar Artes Maciais nas horas vagas.\
+💡 &nbsp;Estudando Desenvolvimento Web.\
 ☀️ &nbsp;Morando em Recife Atualmente.
 
 ## 💻 &nbsp;Estatísticas e Linguagens
