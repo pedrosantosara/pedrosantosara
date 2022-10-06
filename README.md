@@ -8,9 +8,8 @@
 
 ## 💻 &nbsp;Estatísticas e Linguagens
 
-<div>
-<img height="130em" align=˜left˜ src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrosantosara&show_icons=true&theme=dark&locale=en&layout=compact" alt="pedrosantosara" />
-<img height="130em" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrosantosara&theme=dark" alt="pedrosantosara" />
+
+<img height="130em"  src="https://github-readme-streak-stats.herokuapp.com/?user=pedrosantosara&theme=dark" alt="pedrosantosara" />
 </div>
 
 ## 📱 &nbsp;Contato
