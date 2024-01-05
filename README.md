@@ -2,14 +2,31 @@
                     
 <img src="https://user-images.githubusercontent.com/59851589/178666023-5fb1bb5b-735d-4bbc-88bf-5584dcac7972.gif" align="right" height="150" width="150"></a>
                     
-🎓 &nbsp;Atualmente cursando Analise e Desenvolvimento de Sistemas em parceria com Porto Digital.\
-💡 &nbsp;Estudando Desenvolvimento Web.\
+🎓 &nbsp;Formado em Analise e Desenvolvimento de Sistemas em parceria com Porto Digital.\
+💡 &nbsp;Estudando Desenvolvimento Backend.\
 ☀️ &nbsp;Morando em Recife Atualmente.
 
 ## 💻 &nbsp;Estatísticas e Linguagens
 
 
-<img height="130em"  src="https://github-readme-streak-stats.herokuapp.com/?user=pedrosantosara&theme=dark" alt="pedrosantosara" />
+<div align="center">
+ 
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrosantosara&theme=dark" alt="pedrosantosara" />
+   <div>
+     <br>
+  <img widht="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  
+  <img widht="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img widht="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img widht="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img widht="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />        
+  <img widht="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img widht="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+  <img widht="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
+  <img widht="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img widht="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img widht="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />         
+  <img widht="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+  </div>
 </div>
 
 ## 📱 &nbsp;Contato
