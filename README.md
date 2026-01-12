@@ -3,8 +3,8 @@
 <img src="https://user-images.githubusercontent.com/59851589/178666023-5fb1bb5b-735d-4bbc-88bf-5584dcac7972.gif" align="right" height="150" width="150"></a>
                     
 🎓 &nbsp;Formado em Analise e Desenvolvimento de Sistemas em parceria com Porto Digital.\
-💡 &nbsp;Trabalhando na @Sonda Atualmente
-☀️ &nbsp;Morando em Roraima
+💡 &nbsp;Trabalhando na @PDCASE Atualmente
+☀️ &nbsp;Morando em Recife
 
 ## 💻 &nbsp;Estatísticas e Linguagens
 
